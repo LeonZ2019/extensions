@@ -20,6 +20,6 @@ Allows a bot to have more than one owner.
 *More information [here](/extensions/multiple_bot_owners/)*
 
 ## Pastebin
-Allows a user to 
+Allows a user to download or upload raw data from pastebin.
 [Download](https://dbm-network.github.io/download-git/#/home?url=https://github.com/dbm-network/extensions/blob/master/extensions/pastebin/pastebin_EXT.js)
 *More information [here](/extensions/pastebin/)*
