@@ -1,11 +1,11 @@
 # Pastebin
 
 ## Preview
-[Pastebin Extension](/images/preview.png?raw=true)
+![Pastebin Extension](/extensions/pastebin/images/preview.png?raw=true)
 
 ## Get API Key
 1. Login to your pastebin account at [here](https://pastebin.com/login)
-[Pastebin API Page](/images/pastebin_api_page.png?raw=true)
+![Pastebin API Page](/extensions/pastebin/images/pastebin_api_page.png?raw=true)
 2. Go to this [link](https://pastebin.com/api#1)
 3. Copy the key from **Your Unique Developer API Key** to inside Pastebin extension
 
